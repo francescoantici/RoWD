@@ -1,0 +1,39 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS folder attributes
+Icon?
+._*
+
+# Thumbnails
+._.DS_Store
+
+# Spotlight files
+.Spotlight-V100
+
+# Trash
+.Trashes
+
+# macOS volume info
+.VolumeIcon.icns
+
+# macOS metadata
+.fseventsd
+
+# VS Code settings
+.vscode/
+
+# Node modules (if using Node.js)
+node_modules/
+
+# Python virtual environments (if using Python)
+venv/
+.env/
+__pycache__/
+
+# Logs
+*.log
+
+# Build output
